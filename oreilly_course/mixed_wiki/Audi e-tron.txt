@@ -1,0 +1,185 @@
+The Audi e-tron is a series of electric and hybrid cars shown by Audi from 2009 onwards. In 2012 Audi unveiled a plug-in hybrid version, the A3 Sportback e-tron, released to retail customers in Europe in August 2014, and slated for the U.S. in 2015. A decade after the unveiling of the first e-tron concept at the 2009 International Motor Show Germany, Audi's first fully electric e-tron SUV went into production in 2019.
+The name has also been used on some racing cars.
+
+
+== Production vehicles ==
+
+
+=== Audi R8 E-Tron (2015) ===
+The R8 E-Tron was an electric version of the Audi R8. It got to 100 kilometers an hour in under 4 seconds, and a claimed range of over 280 miles. Less than 100 were produced, making it a limited production vehicle.
+
+
+=== Audi E-tron (2019) ===
+Audi E-tron 55 
+5seats
+5014mm	1976mm	1686mm	2595kg, 3170kg,
+Electric motor dual 300kw/ 408hp
+Tork 664Nm
+Type 2 CCS	
+AC 11kW
+AC 22kW
+DC 150kW
+%80 30dk
+95kWh 86kWh	
+WTLP 26,2kWh/100km
+4x4 Quattro All-wheel Drive	
+max 200km/h
+0-100km/h 5,7sn
+
+Audi E-tron 50
+5seats
+5014mm	1976mm	1686mm 2445kg, 3040kg,	
+Electric motor 230kw/ 313hp
+Tork 540Nm
+Type 2 CCS	
+AC 11kW
+AC 22kW
+DC 120kW
+%80 30dk
+71kWh 64kWh	
+WTLP 26,6kWh/100km
+4x4 Quattro All-wheel Drive	
+max 190 km/h
+0-100km/h 6,8sn
+
+
+=== Q8 e-tron (2018) ===
+
+An SUV formerly called the  Audi e-tron with a 328 kilometer (204 mile) EPA range and a 95 kWh battery started production in 2018 and was first delivered in 2019. The vehicle is sold in many countries, including the US, Canada and multiple countries in Europe. At the end of September 2019, there were more than 10,000 e-trons registered worldwide.
+Audi announced that the facelifted e-tron will be renamed to Audi Q8 e-tron which was revealed on November 9, 2022. 
+
+
+=== Q2L e-tron (2019) ===
+
+The Q2L e-tron is an all-electric version of the long-wheelbase variant of the subcompact SUV Audi Q2, which went into production at the Foshan plant in November 2019 and is sold exclusively in China. Powered by a 38 kWh lithium-ion battery of Chinese supplier Contemporary Amperex Technology, the Q2L e-tron has a range of 265 kilometres (165 mi) on one charge and a top speed of 150 km/h (93 mph). Its electric motor delivers the maximum power of 100 kW (134 hp) and maximum torque of 290 N⋅m (214 lbf⋅ft).
+
+
+=== Q8 e-tron Sportback (2020) ===
+
+The e-tron Sportback is an all-electric coupé SUV shown first as a concept at the 2017 Shanghai Motor Show. It has the same powertrain/battery as the e-tron SUV. Both cars are produced in Brussels, Belgium. As in the e-tron SUV, the battery of the vehicle is liquid-cooled.
+The production version was revealed at the 2019 Los Angeles Auto Show. European and American deliveries started in 2020.
+The 2020 e-tron Sportback has an EPA range of 351 kilometres (218 mi). It is better than in the 2019 e-tron SUV, partially because a larger percentage of the battery capacity is usable. The e-tron's battery management system keeps part of the battery capacity as a buffer, which is not part of the usable capacity; now the size of that buffer was decreased to unlock more usable capacity. This change was introduced in the e-tron SUV during the production run, while in the e-tron Sportback, which entered production later, it was available from the beginning.
+
+
+=== e-tron GT (2021) ===
+
+The e-tron GT is a four-door all-electric grand tourer. The concept model was showcased at the 2018 Los Angeles Auto Show. It is built on the same platform as the Porsche Taycan. It is fitted with an 800-volt system, which substantially reduces charging times. The vehicle is driven by two permanently excited synchronous electric motors with a combined power output of 434 kW (582 hp). A 90-kWh lithium-ion battery powers the e-tron GT's electric engines and enables it to travel up to 400 km (249 mi) according to the new WLTP standard.
+The e-tron GT concept made an appearance in the 2019 film Avengers: Endgame, in which Tony Stark drives the e-tron GT in one scene in the film. Production model is announced for 9 February 2021.
+
+
+=== Q4 e-tron (2021) ===
+
+The Q4 e-tron is a battery electric crossover SUV unveiled at the 2019 Geneva Motor Show as a concept model. According to the Audi, the use of VW's MEB platform should improve its affordability. The production model is released in April 2021.
+
+
+=== Q4 e-tron Sportback (2021) ===
+
+The Audi Q4 e-tron Sportback is a battery electric coupe crossover unveiled alongside the standard Q4 e-tron. It will be coming for sale in 2021 along with the Q4 e-tron. Both of these cars will be based on the Volkswagen's MEB platform. The Q4 e-tron Sportback has a drag coefficient of 0.26.
+
+
+=== Q5 e-tron (2021) ===
+
+The Q5 e-tron is a battery electric crossover SUV unveiled at the 2021 Guangzhou Auto Show. It is based on the MEB platform similar to the Q4 e-tron. Produced and marketed exclusively for the Chinese market, it is the first three-row SUV of the e-tron series.
+
+
+=== Q6 e-tron (2024) ===
+
+The Q6 e-tron is a battery electric crossover SUV unveiled at the 2023 Munich Motor Show as a prototype model. The production model is released in March 2024. 
+
+
+=== A6 e-tron (2024) ===
+
+The A6 e-tron is a battery electric sedan and station wagon unveiled at the 2021 Auto Shanghai as a concept model. The production model is released in July 2024
+
+
+== Other vehicles ==
+Audi have announced to launch 12 fully electric e-tron models by 2025. Audi considers a sell price level of €100/kWh as suitable for higher-priced cars, but not for cheaper cars made in high volume.
+
+Audi A4-sized EV, a sedan based on the PPE platform; planned production 2023.
+Audi PB18 e-tron concept, a mid-engine concept car designed as a radical driving machine for the racetrack and road.
+Audi A6 e-tron, the first car officially announced to use the new PPE platform, planned production late 2024.
+
+
+== Production vehicles (hybrid drivetrain) ==
+
+
+=== A3 Sportback e-tron plug-in hybrid (2013-2018, 2020) ===
+
+In June 2012 the carmaker confirmed production plans for a plug-in hybrid version of the A3. The plug-in hybrid concept car was unveiled at the 2013 Geneva Motor Show. The basic powertrain hardware of the Audi A3 e-tron is shared by the Volkswagen Golf GTE plug-in hybrid, but the software controls of each car are different. In May 2013 Audi announced its decision to produce only a plug-in hybrid version, the Audi A3 Sportback e-tron. The A3 Sportback e-tron has an 8.8 kWh battery pack that delivers an all-electric range of 50 km (31 mi) on the NEDC cycle, and a total of 940 km (580 mi). The plug-in hybrid can reach a top speed of 220 km/h (140 mph) and can reach 100 km/h (62 mph) in 7.6 seconds. According to Audi the car has an average fuel efficiency of 1.25 L/100 km (188 mpg‑US) and CO2 emissions of 35g/km.
+In September 2013, at the Frankfurt Motor Show, Audi announced that pricing for the Audi A3 Sportback e-tron will start in Germany at €37,000 (US$44578.31). The vehicle is also scheduled to arrive in Australia in early 2015. On 1 August 2014, Audi announced the vehicle is now on sale across Europe at the companies 410 dealerships starting at €37,900 (US$45662.65).
+The first 227 vehicles were registered in Germany in August 2014. According to JATO Dynamics, a total of 415 vehicles have been registered worldwide through September 2014, of which, 250 were registered in Germany.
+Retail sales were scheduled to begin in the U.S. in early 2015. In an April 2015 video, Audi America president Scott Keogh said the 'price point is going to be around $40,000,' but made no indication if that was before or after tax incentives.
+Audi discontinued the A3 PHEV Sportback e-tron in Europe in November 2018. However, the model was briefly re-introduced at the end of 2019 for MY20, now called A3 Sportback 40 e-tron under Audi's new naming scheme. The revised A3 e-tron in the UK featured a different level of specification, losing the previously standard LED headlights but gaining Audi's virtual cockpit as standard. The revised model featured the same battery and drivetrain as before, now rated at 35 km (22 mi) of electric range under the new WLTP test.
+
+
+== Concept vehicles ==
+
+
+=== e-tron Frankfurt (2009) ===
+
+The first e-tron concept car was shown at the 2009 International Motor Show Germany. A two-seater, similar in appearance to the Audi R8 but slightly smaller, is powered by four UQM Technologies motors, providing four-wheel drive. Together, these produce 230 kW (310 PS; 310 hp) and 4,500 N⋅m (3,300 lb⋅ft) of torque, allowing the car to accelerate from 0 to 100 km/h (62 mph) in 4.8 seconds.
+A 470 kg (1,036 lb) 42.4 kWh lithium-ion battery is located in front of the rear axle and provides a range of approximately 248 km (154 mi) with a full charge taking 6–8 hours from a normal household socket. It has ceramic disc brakes as well as regenerative braking. In 2010 Audi began a development program with the objective to manufacture a limited production R8 e-tron. The R8 e-tron made a brief appearance in the 2013 Marvel Studios release of Iron Man 3.
+After developing 10 prototypes for research and development purposes, in May 2013 Audi decided to cancel production of the electric car due to its limited all-electric range as battery technology had not advanced as quickly as Audi had expected, making the R8 e-tron unviable for series production. In March 2014 Audi revised its decision and announced it will build the R8 e-tron upon request. The carmaker explained that their latest development work resulted in an increased range from 215 km (134 mi) to approximately 450 km (280 mi).
+
+
+=== e-tron Detroit showcar (2010) ===
+
+The Audi e-tron Detroit showcar (confusingly, also named "e-tron") includes 2 electric motors driving the rear wheels with a combined output of 150 kilowatts (200 PS; 200 hp) and 2,650 N⋅m (1,950 lb⋅ft) of torque, with lithium-ion batteries behind passenger compartment and ahead of the rear axle, adaptive matrix beam LED headlight modules with clear glass covers, fully automatic light assistance system, Audi Space Frame with doors, lids, sidewalls and roof made of a fiber-reinforced plastic; built-in central display with integrated MMI functions, front axle hydraulic fixed-caliper brake, electrically actuated floating-caliper brakes mounted on the rear axle, heat pump, triangular double wishbones made of forged aluminum components at the front and rear axles, direct rack-and-pinion steering, 19-inch wheels of 35-spoke design, 235/35 front and 255/35 rear tires. The concept car can accelerate from 0–100 km/h (0–62 mph) in 5.9 seconds.
+The vehicle was unveiled in the 2010 North American International Auto Show in Detroit.
+A similar production model, based on a future mid-engined automotive platform codenamed 9X1, shared with Porsche and Volkswagen, is reportedly under development.
+
+
+=== A1 e-tron (2010) ===
+
+The Audi A1 e-tron concept car, an electric variant of the Audi A1 production model, was first shown at the 2010 Geneva Motor Show. The A1 e-tron is a series plug-in hybrid, powered by an electric motor from UQM with a continuous output of 45 kW (61 PS; 60 bhp), and a peak output of 75 kW (102 PS; 101 bhp). A 254 cc Wankel engine is also used to power a 15 kW (20 PS; 20 bhp) range-extending generator.
+
+
+=== e-tron Spyder (2010) ===
+
+Shown at the 2010 Paris Motor Show, this roadster is a plug-in hybrid powered by a 221 kW (296 bhp) twin-turbo TDI 3.0 L V6 diesel engine driving the rear wheels, plus two electric motors together producing 64 kW (86 bhp) powering the front wheels. Acceleration to 100 km/h (62 mph) is achieved in 4.4 seconds, and it could theoretically travel 48 km (30 mi) on electric power at the equivalent of 107 mpg. Audi also claimed the car had a range of 620 miles on combined diesel and electric power.
+Audi presented the e-tron Spyder in January 2011 at the Las Vegas Consumer Electronics Show, near identical to the Paris show car, but this time painted bright red. The car was advertised with the same performance specifications, including an electronically limited top speed of 250 km/h (155 mph).
+
+
+=== A3 Sportback e-tron all-electric (2011) ===
+The Audi A3 e-tron is an all-electric car variant of the Audi A3 production model. The A3 e-tron is powered by an electric motor under the hood which sends power from the rear- and mid-mounted battery packs to the front wheels. The 26.5 kWh lithium-ion battery pack provides an optimal range of around 148 km (92 mi), but between 113 and 121 km (70 and 75 mi) in real driving conditions. Top speed is limited to 143 km/h (89 mph).
+Audi deployed a fleet of 17 all-electric A3 by mid-2012 as part of a testing program in the U.S. The testing is conducted among Audi's engineers and company employees, and the company has no plans to test the vehicles with customers.
+
+
+=== R8 e-tron (2015) ===
+
+The production version of the Audi R8 e-tron was introduced at the 2015 Geneva Motor Show. The limited production electric sports car was available only in Europe. Fewer than 100 units were sold at the end of production run.
+
+
+=== A6 e-tron (2021) ===
+The A6 e-tron was introduced at the April 2021 Auto Shanghai. It is expected to be built on the PPE platform co-developed with Porsche.
+
+
+== Race cars ==
+
+
+=== Le Mans Prototype racing cars ===
+
+Audi used the e-tron quattro name on some versions of its Audi R18 racing car competing in the Le Mans Prototype class.
+The car won the 24 Hours of Le Mans in 2012, 2013 and 2014.
+
+
+=== RS Q e-tron (2021-) ===
+
+It is an off-road race car, originally built to complete in 2022 Dakar Rally.
+
+
+=== S1 e-tron quattro Hoonitron (2021) ===
+It is a version of Audi S1 developed for Block's Elektrikhana video, based on Ken Block's 1980s Audi Sport quattro S1 Pikes Peak race car.
+
+
+== See also ==
+List of electric cars currently available
+List of production battery electric vehicles
+
+
+== References ==
+
+
+== External links ==
+
+Audi e-tron. "Design & Technology". Audi Expereience. Audi Worldwide. Archived from the original on 27 November 2010.

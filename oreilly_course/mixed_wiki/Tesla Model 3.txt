@@ -1,0 +1,215 @@
+The Tesla Model 3 is a battery electric mid-size sedan with a fastback body style built by Tesla, Inc., introduced in 2017. The vehicle is marketed as being more affordable to more people than previous models made by Tesla. The Model 3 was the world's top-selling plug-in electric car for three years, from 2018 to 2020, before the Tesla Model Y, a crossover SUV based on the Model 3 chassis, took the top spot. In June 2021, the Model 3 became the first electric car to pass global sales of 1 million. 
+A facelifted Model 3 with revamped interior and exterior styling was introduced in late 2023 for countries supplied by Gigafactory Shanghai and in early 2024 in North America and other countries supplied by the Tesla Fremont Factory.
+
+
+== History ==
+
+In a 2006 interview with Wired Science, Elon Musk presented the Model 3 as likely being affordable by most people able to purchase new cars, aiming for a $30,000 price point. In 2008 the car was stated to be a family car. In 2017 Tesla added that the Standard Range version of the all-electric car would have an estimated EPA-rated range of 215 miles (346 km), a five-passenger seating capacity, front and rear trunks, and promised sports-car levels of acceleration performance. Tesla said it would have a five-star safety rating and have a drag coefficient of Cd=0.225. This is lower than the Tesla Model S drag coefficient of Cd=0.24, which, in 2014, was the lowest among the production cars of the time.
+Within a week of unveiling the Model 3 in 2016, Tesla revealed they had taken 325,000 reservations for the car. These reservations represented potential sales of over US$14 billion. By August 2017, there were 455,000 net reservations.
+Industry experts were dubious when, in May 2016, Tesla announced its decision to advance its 500,000-total-unit build plan (combined for Model S, Model X, and Model 3) to 2018, two years earlier than previously planned, in order to accelerate its target for Model 3 output. As predicted, there were "production bottlenecks" and "production hell". In May 2016, Tesla issued US$2 billion in new shares to the stock market to finance the plan.
+The company plans for the Model 3 are part of Tesla's three-step strategy to start with a high-price vehicle and move progressively towards lower-cost vehicles, while the battery and electric drivetrain were improved and paid for through the sales of the Roadster, Model S, and Model X vehicles.
+On April 18, 2018, Tesla updated its production target to 6,000 vehicles per week by the end of June 2018, an increase from its previous target of 5,000 vehicles per week which was previously promised at earlier dates. On July 1, 2018, Elon Musk announced that Tesla had met its production goal of 5,000 cars in a week.
+On February 28, 2019, Tesla announced the availability of the highly anticipated Standard Range trim priced at $35,000 (equivalent to $41,710 in 2023). However, on April 12, 2019, Tesla announced that the Standard Range model would no longer be available for ordering online, but only over the phone or in stores. Autopilot, previously a $3,000 option, was included in all versions of the Model 3 except for the Standard Range, while each version's price only increased by $2,000. In February 2019, the Model 3 passed the Chevrolet Volt to become the all-time bestselling plug-in electric car in the U.S. Model 3 sales surpassed the Nissan Leaf in early 2020 to become the world's all-time top selling plug-in electric car.
+
+
+=== Model naming ===
+During an interview recorded in 2006 Musk referred to "Model 2" (later Tesla Model S), and to "Model 3". The Model 3 was codenamed Tesla "BlueStar" in the original business plan in 2007. Model 3, originally stylized as "Model ☰", was announced on Musk's Twitter account on July 16, 2014. A 2015-presentation by JB Straubel used the name "Model III". As of 2016 Musk had wanted the three models to spell SEX, but settled for "S3X". In early 2017, after trademark opposition regarding Adidas's three stripes logo, the triplicate horizontal-bar stylization was abandoned and changed to a numeric "3".
+
+
+=== Market ===
+In September 2015, Tesla announced that the Model 3 would be unveiled in March 2016. In January 2016, Musk said that the first official pictures of the car will be revealed at the end of March 2016. Delivery would begin in late 2017 first on the U.S.'s west coast and then move eastwards. Potential customers were first able to reserve a car at Tesla stores or online on March 31 with a refundable deposit of US$1000. In February 2016, Tesla indicated that the unveiling would be on March 31, 2016. Current owners of Tesla vehicles got priority sales after employees but before the general public, as a reward for helping pay for the development of the Model 3. (Employees and current owners were likely to be more tolerant of early production flaws: both the Model S and the Model X had several problems at the start of their production.)
+During the Model 3 unveiling event, Tesla said that over 115,000 people had reserved the Model 3 in less than 24 hours prior; more cars than Tesla had sold by that time. Twenty-four hours after opening reservations, Tesla had advanced orders for over 180,000 cars. Two days later, Tesla said they had 232,000 reservations.
+One week after the unveiling, Tesla said it had over 325,000 reservations, more than triple the number of Model S sedans sold by the end of 2015. Musk said that 5% of reservations correspond to the maximum of two vehicles allowed per customer, "suggesting low levels of speculation", and that 93% of Model 3 reservations are from new buyers who do not currently own a Tesla. The previous record for advance deposits on a car was the 1955 Citroën DS that had 80,000 deposits during the ten days of the Paris Auto Show, while the Model 3 had 232,000 reservations in two days.
+According to Tesla's global vice-president Robin Ren, China is the second-largest market for the Model 3 after the US. Tesla said the number of net reservations totaled about 373,000 as of May 15, 2016, after about 8,000 customer cancellations and about 4,200 reservations canceled by the automaker because these appeared to be duplicates from speculators. Upon its release in July 2017, there had been over 500,000 reservations for the Model 3, with Musk later clarifying there were a net of 455,000 reservations outstanding, and an average of 1,800 reservations were being added per day.
+
+
+=== 2020 changes ===
+
+In November 2020, the Model 3 received exterior and interior styling changes, many carried over from the then-new Model Y crossover SUV, which was based on the Model 3. The most noticeable cosmetic change was that the previously chrome finished door handles, side mirror trim, window trim, and camera covers were given a black finish.
+Other changes included the addition of a heat pump with an "octovalve" to improve climate control, a power-operated trunk, a redesigned center console with Qi wireless charging pads, and quieter double-pane glass.
+
+
+=== Other changes ===
+Some hardware has also been removed over time. The adaptive cruise control radar sensor was eliminated in April 2021, the front passenger seat lumbar support was removed in May 2021, and the ultrasonic sensors used for park assist were eliminated in October 2022 and replaced with Tesla Vision Tesla's vision based park assist.   
+
+
+=== 2023 update ===
+Tesla announced a design refresh of the Model 3 on September 1, 2023, bringing a longer driving range, lower production costs, technical improvements, and a restyled exterior and interior. During development, the refresh was codenamed "Project Highland". It was exhibited at the 2023 Munich Motor Show.
+Tesla said the refreshed Model 3 improved range around 10%, largely from a lower and more aerodynamic nose along with a better rear diffuser and more aerodynamic wheels. The tires protrude slightly from the rims, protecting them from curb rash. They have lower rolling resistance, but no compromise in lateral performance or steering response. This was enabled by changing materials and removing 1 ply (made possible by lowering the top, rarely used, speed). The gap between tire and body was reduced. The drag coefficient of Cd=0.219 improved from 0.225. 
+Redesigned tail lights eliminated the vertical break between trunk and side.
+Interior additions included a 8-inch (200 mm) touchscreen (with Bluetooth audio) for rear seat passengers, ventilated front seats, up to 17-speaker sound system (up from 14), customizable interior accent lighting, and a new steering wheel without turn signal and gear selector stalks. The touchscreen for rear seat passengers and the steering wheel without stalks are changes that were previously implemented on the Model S and X during their "Palladium" refresh. 
+The upgrade had shock-absorbing technology called Frequency Selective Damping, which uses a hydraulic amplifier to concentrate vibration in the 4-6 Hz range.
+The update came equipped with HW4 camera and processing technology. This permitted a wider field of view, which improved Autopilot's cross-traffic emergency braking.
+Gigafactory Shanghai was the first of Tesla's factories to begin making the refreshed Model 3, with the company offering the vehicle for sale in China and markets to which Tesla exports from China, including Europe, the Middle East, Australia and Japan. The refreshed Model 3 was made available for order in North America on January 10, 2024, with these models being produced at the Tesla Fremont Factory.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Design ==
+In 2013, design chief Franz von Holzhausen called the Model 3, "an Audi A4, BMW 3 Series, Mercedes-Benz C-Class type of vehicle that will offer everything: range, affordability, and performance" that is targeted toward the mass market. While technology developed for Tesla's earlier Model S sedan was used in the Model 3, it is 20% smaller than the Model S and has its own unique design.
+One of the most striking and noticeable design choices on the Model 3 was the lack of a front grille. Since electric cars have lower cooling needs than combustion cars, they do not need a front grille, yet many, including the Model S, have one to fit in with the design of other vehicles. All trim levels include an expansive glass roof developed by the Tesla Glass group, from the same glass used for the Tesla Solar Roof.The interior of the Model 3 has been described as minimalist or stark, with few physical controls, instead housing most controls in a single 15.4 in (390 mm) center-mounted touchscreen. Critics praised the screen's interface, but pointed out that the decision requires drivers navigate menus to accomplish what could otherwise be controlled by a button or knob. Tesla is also notable for being one of the few automakers offering no Apple CarPlay or Android Auto connectivity.
+
+
+== Production ==
+Gigafactory Shanghai has been producing the Model 3 since December 2019 for both the local China market and for export to other areas except the United States.
+
+
+=== Production stages ===
+In a 2013 interview, Jerome Guillen discussed "BlueStar" (codename for the Model 3 project), stating that Tesla was expecting to eventually produce 400,000 cars per year.
+In May 2016 Tesla told its suppliers that it intended to double earlier-announced Model 3 production targets to 100,000 in 2017 and 400,000 in 2018 due to demand, which suppliers and many experts viewed as unattainable. In the Tesla Factory, paint lines for 500,000 automobiles commenced in 2015, and some stamping equipment for the Model 3 was operational by August 2016. Tesla bought Grohmann Engineering, experienced in automated manufacturing, in January 2017. This acquisition launched Tesla Advanced Automation Germany, which Tesla said would develop manufacturing processes to be used initially in Model 3 production. According to Tesla in late 2016, the company expected to invest between US$2 billion and US$2.5 billion in capital expenditures ahead of the start of Model 3 production.
+After the two Alpha prototypes were shown (silver and black; red was a shell) in April 2016, Tesla finished the design in late July 2016. Tesla ordered parts equivalent to 300 Beta prototypes in August 2016, preparing for development of the assembly line. As of August 2016, the company intended to make release candidates for testing prior to actual production. Tesla began building Model 3 prototypes in early February 2017 as part of the testing of the vehicle design and manufacturing processes. Tesla said in late 2016 that initial crash test results had been positive. Crash test results in mid-2019 were scored at 96% for protection of adults; 86% for protection of children and 74% for the way it handles "vulnerable road users" such as pedestrians. In addition, the Model 3's "safety assist" mode scored 94%.
+In October 2016 Tesla said its production timeline was on schedule. Again in February 2017, Tesla said that vehicle development, supply chain and manufacturing are on track to support volume deliveries of the Model 3 in the second half of 2017. Limited vehicle production began in July 2017 and volume production was scheduled at that time to start by September 2017. As of February 2017, Tesla planned to ramp up production to exceed 5,000 vehicles per week in Q4 2017 and reach 10,000 vehicles per week in 2018. However, Tesla missed their Q4 production target by a wide amount, as only 2,425 vehicles were produced during the entire 3-month period.
+Giga Nevada had been intended to produce battery packs for Model 3 and it was announced in January 2017 that Tesla would also manufacture drive units at Giga Nevada. In February 2017, Tesla said that installation of Model 3 manufacturing equipment was underway in the Fremont factory and at Giga Nevada, where in January, production of battery cells for energy-storage products began, which have the same form factor as the cells that will be used in Model 3.
+
+
+=== Deliveries ===
+
+In February 2016 Tesla expected the Model 3 to repeat the delivery schedule of the S and X models: selling at first the highest-optioned cars with higher margins, to help pay for production equipment. However, after the lessons learned from the complicated Model X production, Tesla changed its delivery schedule in early 2017 to produce relatively simpler cars initially, in order to reduce production risk. The first mass-produced Model 3 cars were rear-wheel drive with the long-range battery. Deliveries began in the second half of 2017 as predicted, but not in the numbers Tesla had hoped. As industry experts had predicted, Tesla did not meet the announced delivery targets.
+
+
+==== 2017 ====
+In early July 2017 Musk forecast at least six months of serious production difficulties. Tesla's announced goal at that time was to produce 1,500 units in the third quarter of 2017, increasing to 5,000 per week by end of December 2017, but only 260 vehicles were manufactured during the third quarter. The company blamed production bottlenecks, but said there were "no fundamental issues with the Model 3 production or supply chain" and expressed confidence about its ability to resolve the bottlenecks in the near future.
+Tesla delivered just 1,542 Model 3 cars in the fourth quarter of 2017, about 2,900 fewer than Wall Street estimations, which were already halved previously after Tesla published the company's third quarter report. By early November 2017, Musk had postponed the target date for manufacturing 5,000 of the vehicles per week from December 2017 to March 2018. An analyst with Cowan and Company, an investment banking firm, said in November 2017 that "Elon Musk needs to stop over-promising and under-delivering". Customer deliveries totaled 1,764 units in 2017.
+
+
+==== 2018 ====
+Prior to a planned shutdown in mid-April 2018 to further increase production, Tesla produced more than 2,000 Model 3 vehicles for three straight weeks. Global deliveries passed 100,000 units as of October 2018. U.S. Model 3 sales hit 100,000 units in November 2018, reaching this milestone quicker than any previous plug-in electric model.
+During the first half of 2018, the Model 3 was the top-selling alternative fuel vehicle in California with 12,674 units, followed by the Toyota Prius conventional hybrid (10,043). The Model 3 was the top-selling plug-in electric car in the U.S. for 12 months in a row through December 2018, ending 2018 as the bestselling plug-in with an estimated 139,782 units delivered, the first time a plug-in car sold more than 100,000 units in one year. Additionally, the Model 3 ranked as the bestselling luxury vehicle in the American market in 2018. The Model 3 topped plug-in electric car sales in California in 2018, with 51,293 units registered, and was the state's best-selling car in the near luxury category.
+The Model 3 was the world's best-selling plug-in electric car in 2018. In 2018, Elon Musk predicted that eventual global demand would likely be between 500,000 and 1 million Model 3 cars per year— ranking in between the BMW 3 Series and the Volkswagen Golf.
+
+
+==== 2019 ====
+
+Retail deliveries in Europe and China began in February 2019. Delivery of the first right-hand drive vehicles began in June 2019, starting with the UK and later in Australia and New Zealand. Similarly to how the first US-made Model 3s were delivered in July 2017, the first Chinese-made Model 3 cars were delivered to employees at the end of 2019.
+In January 2019 the Model 3 overtook the Model S as the U.S. all-time best selling all-electric car, and, the next month, also passed the Chevrolet Volt to become the all-time top selling plug-in electric car in the U.S.
+The Tesla Model 3 ended 2019 as the world's best-selling plug-in electric car for the second consecutive year, with just over 300,000 units delivered. The electric car also topped annual plug-in car sales in the U.S. (158,925) and California (59,514) markets for the second time in a row. And again listed as the California's best-selling car in the near luxury category in 2019.
+The Model 3 also ranked as the best-selling plug-in car in Europe in 2019, with over 95,000 units delivered in its first year in that market, and outselling other key premium models. It also set records in Norway and the Netherlands, not only as the top selling plug-in car but also as the best-selling passenger car model overall. The sales volume achieved by the Model 3 in 2019 (15,683) is the third largest in Norwegian history, exceeded only by the Volkswagen Bobla (Beetle) in 1969 (16,706), and Volkswagen Golf in 2015 (16,388). The Model 3 set a new record in the Netherlands for the highest registrations in one month (22,137) for any single plug-in vehicle in Europe.
+The Model 3 also was the top selling plug-in car in Canada, Spain, Belgium, Denmark, Switzerland, Australia, New Zealand, Taiwan and Mexico.
+
+
+==== 2020 ====
+Until 2019, the Nissan Leaf was the world's best-selling plug-in electric car, with global sales of 450,000 units by December 2019. The Tesla Model 3 surpassed Leaf sales in early 2020 to become the world's best-selling plug-in electric car ever. Global sales totaled about 814,000 units overall up to December 2020. The Model 3, with 365,240 global deliveries, was the world's best-selling plug-in passenger car in 2020 for the third consecutive year.
+Gigafactory Shanghai began to ramp up production in 2020, producing vehicles for sale in China and for export.
+In 2020, the Model 3 was the bestselling plug-in car in China (137,459) and the U.S. (95,135). The Model 3 also was the most popular plug-in electric car in California in 2020 (38,580), as well as the state's best-selling car in the near luxury category. The Model 3 has topped both California's and the U.S. national plug-in car sales for three years in-a-row, from 2018 to 2020.
+
+
+==== 2021 ====
+In 2021, the Model 3 became the all-time bestselling electric vehicle in the Netherlands with over 78,996 cars registered at the end of June 2021. The Model 3 became the first electric car to sell over 1 million units globally in June 2021.
+It was also the bestselling electric vehicle of 2021 in the UK, with 34,783 registered, beating the second most popular electric car, the Kia e-Niro, by over 22,500 registrations. These figures also made the Model 3 the second bestseller in the UK new car market in 2021, only beaten by the Vauxhall Corsa, a cheaper B-segment vehicle. The 9,612 Model 3s sold in December were more than double the sales of any other car in that month.
+In October 2021, Hertz car rental ordered 100,000 full-price Model 3 cars for its rental fleet.
+
+
+=== Concerns ===
+In May 2018 Consumer Reports found "big flaws, such as long stopping distances in our emergency braking test and difficult-to-use controls", finding the braking distance was worse than a Ford F-150 full-size truck, and branding the Model 3 "not recommended". Tesla responded to the claims with concern and, over the next weekend, released an OTA update for the anti-lock braking algorithm. Consumer Reports, impressed with the prompt OTA update, verified the improved braking performance and changed their rating to a recommended model.
+In February 2019 Consumer Reports revoked the Model 3 recommendation because "many customers have reported problems with the [car], including loose body trim and glass defects." As with Model S and Model X, Model 3 production flaws were reduced over time. In November 2019 Consumer Reports reinstated the Model 3 recommendation, claiming it was the fifth-most reliable of twelve compact luxury cars.
+During long-term testing of a Model 3 in December 2019, Car and Driver experienced a rear inverter short after 5,286 miles (8,507 km) and 3 months of ownership. It was their first long-term vehicle to suffer such a major failure while parked.
+In 2020, due to the Covid-19 outbreak, closure of the Shanghai factory at the end of January, and supply chain issues, Tesla used the 2.5 version processor instead of the 3.0 processor that Chinese users expected to find in their vehicles. This led to mass complaints. Tesla promised to upgrade the hardware free of charge once the supply chain is restored.
+The 2021 Tesla Model 3 vehicles built on or after April 27, 2021, had modified Forward Collison Warning (FCW) and Automatic Emergency Braking (AEB) safety features, resulting in lower Consumer Reports and Institute for Highway Safety (IIHS) scores. The change was from using Radar to Camera technology called Tesla Vision. The National Highway Traffic Safety Administration has opened an investigation over phantom braking in these new vehicles.
+In May 2022, a relay attack was discovered where an attacker could gain remote control of a Model 3 (or a Model Y) if they could get within range of a Bluetooth key of the owner.
+
+
+== Specifications ==
+
+
+=== Motor ===
+Instead of a traditional induction motor, the Model 3's primary (rear) motor uses internal permanent magnets (IPM) with synchronous reluctance motor (SynRM) characteristics. Compared to an induction motor, the aluminum squirrel-cage rotor is replaced by an iron rotor, with slots cut into the metal where magnets are inserted in the internal core. As an IPM motor, it produces excellent starting torque; however, performance declines at high speeds due to counter-electromotive forces. For high-speed operation, Tesla engineers used iron’s reluctance property, which allows it to spin in synchronization with the magnetic field of the stator if channels are cut into the core. These channels were also an ideal internal location for the permanent magnets to be mounted.
+The IPM-SynRM motor is responsible for most of the propulsion in both the RWD and AWD Model 3s. The induction motor on the front axle of the AWD models provides additional power and helps to improve handling.
+
+
+=== Battery ===
+For the Model 3, Tesla initially decided to use 2170-type (21 mm diameter, 70 mm height) cylindrical cells. Compared with the 18650-type batteries that the company had been using since its first generation Roadster, the 2170 batteries were optimized for electric cars, allowing for a higher capacity per cell and a lower number of cells per battery pack.
+For vehicles built at the Tesla Fremont Factory, the company sources 2170-type batteries with a nickel-cobalt-aluminum cathode chemistry from Panasonic's production line at Gigafactory Nevada.
+For vehicles made at Gigafactory Shanghai, batteries with a nickel-cobalt-manganese cathode chemistry are sourced from LG Energy Solution's factories in China.
+As lower-cost models were introduced, Tesla started using prismatic (rectangular) cells with a lithium iron phosphate (LFP) chemistry in vehicles produced in both factories. LFP batteries are less energy-dense (which reduces range), but do not contain any nickel or cobalt, which makes them less expensive to produce. Unlike other types, LFP batteries achieve less degradation when being regularly charged to 100 percent. Tesla sources these batteries from CATL in China.
+
+
+=== Engineering and changes ===
+When production began in 2017, the base Model 3 was announced to have a 50-kWh battery with a range of about 220 miles (350 km) while the optional 75-kWh battery would have a range of about 310 miles (500 km).
+The 350-volt (nominal, 400v max) Model 3 battery packs are made of four longitudinal modules each containing the groups (bricks). The Standard Range version carries 2,976 cells arranged in 96 groups of 31. The Long Range version carries 4,416 cells arranged in 96 groups of 46, and weighs 1,060 pounds (480 kg) in a 0.40 m³ volume; a density of 150 Wh/kg (540 kJ/kg). The car's onboard AC/DC converter is 11 kW. In Europe this requires three-phase electric power, otherwise single-phase power is 7.4 kW.
+Tesla continues to improve the design of the 2170 battery cell and introduces incremental improvements into the manufacturing line periodically.
+The inverter for the Model 3 drive unit uses 24 pairs of silicon carbide (SiC) MOSFET chips rated for 650 volts each.
+In May 2019 Tesla started offering an optional tow bar rated for 2,000 pounds (910 kg) available with Standard Range Plus and Long Range for the European Model 3.
+In December 2019, Tesla offered Long Range dual-motor Model 3 owners who had software version 2019.40.2 the option to purchase a US$2000 "Acceleration Boost" software upgrade enabling a Sport driving mode, advertised to reduce 0-60 mph (97 km/h) time from 4.4s to 3.9s. Road testing confirmed better-than-expected acceleration with drivers in Sport mode reaching 0-60 mph (97 km/h) in 3.67s from standstill and 3.47s with a 1-foot rollout.
+Structurally, the Model 3 is mostly steel, and most body panels are aluminum.
+Due to its smaller size, the Model 3 is expected to consume less energy than the Model Y, and thus have longer range.
+Traditional stability control is not made for dual-motor control or the faster response time in electric motors, and Tesla modified the control unit. The cooling system is integrated to reduce size and cost.
+Sometime during August 2020, Tesla added heating hardware to the Model 3's charge port which was enabled by software update later in the year to prevent ice buildup.
+Beginning in October 2023 (most markets) or January 2024 (US market), Model 3 cars were delivered with changes for the "Highland" refresh. Tesla states that fifty percent of the Model 3's components have been changed for the 2024 Highland version. The changes included a revised suspension emphasizing ride comfort, additional noise reduction, lack of stalks on the steering column, ventilated front seats, a small rear screen, slightly improved aerodynamics, and new headlights, taillights, and wheels. The shifter has been removed and the gear may be selected on the touchscreen, or by simply letting the vehicle's predictive software select the appropriate gear. For emergency purposes, there are P-R-N-D buttons above the front window.
+
+
+=== Specifications table ===
+
+
+== Safety ==
+Following crash testing in 2019, the Model 3 performed very well, receiving five stars in every category from the National Highway Traffic Safety Administration and a 94% Euro NCAP score in active safety.
+
+
+== Automobile Racing ==
+For the single-seater ERA discipline, making its debut in 2023, the Brink Motorsport team is equipped with Model 3. This allows Tesla to make its debut in automobile racing.
+
+
+== Reception ==
+
+Car-design columnist and former car designer for GM Robert Cumberford said the Model 3 "is an excellent design" and praised the front fascia skin that he thinks is superior to the black plastic simulated grille of the pre-refresh Model S. Cumberford praised the Model 3's minimalist design, and "elegant simplicity" akin to Apple products. Although he criticized the car's spoiler, he said the Model 3 has a design that would age well, and "in 10 years it will still look contemporary and beautifully understated, not old and irrelevant."
+Motor Trend said the nose was controversial and polarizing, but probably intentionally so. Vanity Fair and others compared the Model 3 to the Ford Model T for its intended affordability as a volume-produced electric vehicle. Automotive journalist Doug DeMuro said the Model 3 was better, though $2,000 more expensive, than the BMW 340i and that it was the "coolest car of the year," later clarifying that this was based on the "long waiting lists, obsessive interest and news stories." Alex Roy said that DeMuro's review had concentrated on hardware details and missed out on the bigger picture.
+Automotive-industry analyst Toni Sacconaghi of AllianceBernstein said after driving one of the early Tesla vehicles in November 2017 that "Overall, we found the Model 3 to be a compelling offering, and believe it is likely to further galvanize the overall Electric Vehicle category." He was less impressed with build quality of the test samples. "Fit and finish on the two demo cars we saw—perhaps not surprisingly—was relatively poor." He said that there were quality issues at first with the Model X which led to some concern. "This is going to be a much, much higher-volume car, and if there are any quality issues, that could overwhelm the service centers and undermine the Tesla brand." Nonetheless, Sacconaghi was impressed with the ride quality, performance and interior space, and concluded that the 3 "risks cannibalizing the [much more expensive] Model S going forward."
+Road & Track's Bob Sorokanich said the "Model 3 proves that Tesla is thinking far beyond the edges of the Model S and X. Stepping out of the 3, you realize that, as far as the S and X pushed the envelope, they were always meant as intermediaries, stepping stones designed to draw people away from comfortable convention and into the future of the automobile. ... The Model 3 is Tesla at its most unabashed. It's an automaker finally willing to abandon the skeuomorphism of a false radiator grille, the tradition of a driver-oriented gauge panel."
+In 2018, a Model 3 was driven 606.2 miles (975 km) on a single charge, setting a hypermiling driving record.
+In early 2019, Kelley Blue Book announced that the Tesla Model 3 was the winner of the "Best Resale Value Award" for all automobiles in the US market "with a projected 69.3% resale value after 36 months and 48.7% after 60 months."
+
+
+=== Awards ===
+Popular Mechanics named the Tesla Model 3 as the magazine's 2018 Car of the Year. Model 3 was given the 2018 Design of the Year award by Automobile magazine.
+In the United Kingdom, the Model 3 was named 2019 Car of the Year by Auto Express magazine, and 2020 Car of the Year by Parkers magazine, where it was also named "Best Electric Car" and "Best Company Car", and won the "Best Safety" award for any vehicle on the market.
+The Model 3 won best mid-size car in the 2019 Das Goldene Lenkrad Golden Steering Wheel awards.
+The Model 3 was named the top-rated electric car of 2019 by Edmunds.com, as well as being named Edmunds' top-rated Luxury Electric Vehicle for 2020.
+In late 2019, the Model 3 was also named a Top Safety Pick+ by the IIHS. The Model 3 also won Car of the Year in Denmark, Car of the Year 2020 in Norway, and Swiss Car of the Year 2020.
+The Model 3 was named as UK Car of the Year 2020 by a panel of 29 motoring journalists. The director of the awards stated that the car's "technology, performance and range" were converting opinions in favor of electric vehicles.
+The car was chosen as one of the Top 10 Tech Cars by the IEEE in 2018.
+In January 2021, the Model 3 Standard Range Plus was named Large Electric Car of the Year by What Car? magazine. What Car? awarded the Model 3 five stars out of five in its review of the car.
+In May 2021, the Model 3 won Auto Trader UK's New Car Award for Best Car for Families. Auto Trader awarded the Model 3 four and a half stars out of five in its review of the car.
+In January 2024, the Model 3 RWD was awarded Executive Car of the Year by What Car? magazine.
+
+
+== Recalls ==
+In December 2021, 356,309 Model 3 vehicles built between 2017 and 2020 were recalled because of the possibility of damage to the rear view camera wiring harness caused by trunk operation.
+In November 2022, certain vehicles including the Model 3 were recalled with regulators stating tail lamps on one or both sides of the vehicle could work intermittently due to a firmware problem and that this may make the vehicle less visible to others and could increase the risk of a crash. Tesla notified owners by email and provided an over-the-air firmware update to fix this problem. 
+In February 2023, Tesla recalled all models equipped with the Full Self Driving Beta feature in the US and Canada. The National Highway Traffic Safety Administration (NHTSA) said the software allows a vehicle to "exceed speed limits or travel through intersections in an unlawful or unpredictable manner [which] increases the risk of a crash." Tesla opposed the federal request but ultimately complied. Elon Musk tweeted that the decision was, "anachronistic and just flat wrong!" U.S. senators Ed Markey and Richard Blumenthal said the recall was, "long overdue," adding, "Tesla must finally stop overstating the real capabilities of its vehicles.". The fix, coming to a complete stop at stop signs rather than ~1mph, was provided via an over-the-air software update.
+In December 2023, Tesla recalled all models with Autosteer (the lane centering part of Autopilot) in the US for an over-the-air software update that takes additional measures to ensure that the driver is paying attention. Software version 2023.44.30 contains the remedy for the recall.
+In January 2024, Tesla recalled all models with software 2023.44.30.9 (2023.44.30.9.1 for Cybertruck) or earlier in the US for an over-the-air software update that increased the font size of the visual warning indicators for brake, park, and antilock brake to the minimum required size of 3.2mm (1/8 inch). Software version 2023.44.30.13 or later contains the remedy for the recall.
+In May 2024, Tesla recalled all models in the US for an over-the-air software update to remedy a situation where the seat belt warning may not activate if there is an "an open trace in the driver seat occupancy switch".  The software update will become available in June 2024 and removes the dependency on the driver seat occupancy switch, using only the seat belt and ignition statuses to activate the warning.
+
+
+== See also ==
+Government incentives for plug-in electric vehicles
+List of electric cars currently available
+List of modern production plug-in electric vehicles
+List of production battery electric vehicles
+List of Easter eggs in Tesla products
+Tesla Supercharger
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official website

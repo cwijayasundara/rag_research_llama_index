@@ -1,0 +1,145 @@
+The Porsche Taycan is a battery electric luxury sports sedan and shooting brake car produced by German automobile manufacturer Porsche. The concept version of the Taycan named the Porsche Mission E, debuted at the 2015 Frankfurt Motor Show. Four years later, the production Taycan was revealed at the 2019 Frankfurt Motor Show. As Porsche's first series production electric car, it is sold in several variants at different performance levels, and may spawn further derivatives in future models. It is built on the J1 electric car platform shared with the similarly shaped Audi e-tron GT.
+The name "Taycan" (/taɪ-kan/) is a reference to the steed on the coat of Arms of the city of Stuttgart, found on the Porsche crest. In Turkish, tay means colt or young horse, and can means lively. The "Turbo" name used in the higher trims is purely for branding purposes as the vehicles, being electrically powered, do not actually have turbochargers.
+
+
+== Design ==
+The exterior styling, by former Porsche Exterior Designer Mitja Borkert, is strongly influenced by the Mission E concept car, retaining most of its design elements except the suicide doors and the deleted B pillars. Design features of the Taycan include a retractable rear spoiler and retractable door handles. Taking advantage of its drivetrain layout, the Taycan combines the short-nosed front proportions of traditional Porsche models with the stretched proportions of modern front-engine models towards the rear, providing design links to other Porsche models. The front features four-point LED daytime running lamps. At the rear, the car has a short notchback-style boot lid, housing a full-width light band serving as taillights and turn signals and providing access to the rear boot. Another compartment is located under the bonnet, with a claimed capacity of nearly 100 litres. The Taycan Turbo and Turbo S models include carbon fibre trim and 20-inch wheels.
+The Taycan's interior features Porsche's first fully digital instrumentation, with up to four digital displays, including a curved, free-standing 430 mm (16.8 in) configurable driver's display. A 280 mm (10.9 in) screen central to the dashboard is the car's infotainment center. An optional dashboard screen above the glovebox allows the front passenger to customise the infotainment system. On the centre console, a 210 mm (8.4 in) portrait-oriented, touchpad-controlled screen shows the powertrain status. In contrast with the all-digital layout, the dashboard features the analog Porsche clock at its top.
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Shooting brake / wagon versions ==
+
+
+=== Taycan Cross Turismo ===
+The Taycan Cross Turismo is a lifted shooting brake/wagon version of the Taycan with additional body cladding, rugged black plastic trim, and other crossover-like features, including an off-road Design package and 'Gravel' drive mode. The luggage compartment holds up to 446 L (15.8 cu ft), compared to the 407 L (14.4 cu ft) capacity of the saloon. With the rear seats folded, up to 1,212 L (42.8 cu ft) of cargo space is available on the Sport/Cross Turismo.
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Taycan Sport Turismo ===
+The Sport Turismo shares the estate/shooting brake profile with the Cross Turismo, but deletes the crossover-like styling elements. In addition, all Cross Turismo models are all-wheel-drive, while a RWD model is available for the Sport Turismo (as the base Taycan Sport Turismo). The luggage compartment holds up to 446 L (15.8 cu ft), compared to the 407 L (14.4 cu ft) capacity of the saloon. With the rear seats folded, up to 1,212 L (42.8 cu ft) of cargo space is available on the Sport/Cross Turismo.
+
+		
+			
+			
+		
+
+
+== Specifications ==
+
+
+=== Chassis ===
+The Taycan's body is mainly steel and aluminium joined by different bonding techniques. The body's B pillars, side roof frame and seat cross member are made from hot-formed steel, while the bulkhead cross member is made from boron steel to improve safety. The shock absorber mounts, axle mounts and rear side members are forged aluminum; and all body panels, except the front and rear bumpers, are also made from aluminum to reduce weight. 37% of the car is made of aluminium.
+
+
+=== Powertrain ===
+The Taycan uses a new battery-electric all-wheel-drive drivetrain with a permanent-magnet synchronous motor on each axle. At the front, power is sent to the wheels through a single-speed gearbox (8.05:1 gear ratio); and at the rear, through a two-speed transmission and a limited slip differential. The gearbox has a short planetary first gear (16:1) providing maximum acceleration, and a long-ratio second gear (8.05:1) delivering top speed and efficiency.
+Power comes from a 93 kWh 630 kg (1,389 lb) lithium-ion battery pack that doubles as a structural chassis component and keeps the center of gravity low. To increase rear-seat legroom, recesses called "foot garages" have been incorporated in the battery pack. The 723-volt pack (835 volt full, 610 volt empty) has 33 modules with 12 LG Chem pouch cells each, for 396 cells in total. This battery is branded "Performance Battery Plus" (PB+). Porsche also offers a battery with a smaller capacity of 79.2 kWh (gross), branded "Performance Battery" (PB), for the Taycan and Taycan 4S, which reduces total weight by approximately 76 kg (168 lb). PB uses 28 of the same 12-cell modules (336 cells total) as PB+, and operates with a voltage range of 520 to 720 V.
+At launch, the highest-output powertrains (Turbo and Turbo S) were available, distinguished by the larger inverter on the Turbo S. Later, the 4S powertrain was made available; output was reduced by switching to a less powerful rear motor, but the front motor was the same on all three (4S, Turbo, and Turbo S). A base model, which dropped the front motor and was fitted with the smaller 79.2 kW-hr PB, was introduced in early 2021. When the Cross Turismo body was introduced in March 2021, the base model was designated 4, which used the larger battery and two-motor all-wheel drive, but with outputs comparable to the rear-motor Taycan. As an option, the regular Taycan was fitted with the larger 93 kW-hr PB+ in fall 2021 and a single-motor variant of the 4 Cross Turismo powertrain. The GTS powertrain was announced alongside the Sport Turismo body in November 2021; the GTS uses the larger battery and a more powerful set of motors to fill the gap between the 4S and the Turbo. The 4S Sport Turismo is fitted with the smaller battery as standard, but the larger battery is an option.
+
+A mid-cycle refresh was unveiled in February 2024, for the 2025 model year. Porsche introduced an improved battery chemistry, increasing power density and overall capacity to 89 kW-hr (PB) and 105 kW-hr (PB+). In addition, the rear traction motor from the Macan BEV was fitted, which is more powerful, more efficient, and weighs less than the prior unit. The maximum regenerative braking power has been increased from 290 to 400 kW, and the maximum charging rate using a DC charger has increased from 270 to 320 kW. In March 2024, the Turbo GT powertrain was introduced, which uses the same front motor as the Turbo and Turbo S, with an upgraded rear motor which has a maximum current of 900 A (compared to 600 A for the Turbo/S) for a maximum combined peak output of 760 kW (1,020 hp; 1,030 PS) using Launch Control, 580 kW (780 hp; 790 PS) continuous.
+
+Notes
+
+
+=== Range and charging ===
+The EPA lists the Taycan 4S' range at 203 mi (327 km) with a consumption of 69 mpg‑e (49 kWh/100 mi). However, the car's range depends on how it is driven and what driving mode is selected. There are five driving modes: Sport, Sport Plus, Normal, Range, and Individual. The Range mode maximizes range with the lowest power consumption; and Individual lets the driver customise various settings. Regenerative braking provides up to 265 kW, yielding an acceleration of 0.39 G/-3.83 m/s^2.
+Porsche has developed an 800-volt charging system specifically for the Taycan. According to manufacturer estimates, the battery pack can be charged from 5% to 80% in 22.5 minutes in ideal situations, using an 800-volt DC fast charger with 270 kW (367 PS; 362 hp) of power. The Taycan is also backward compatible with existing 400-volt stations up to 150 kW (204 PS; 201 hp) using an onboard step-up converter that converts the 400-volt system to the car's 800-volt system. Charge times depend on weather conditions and infrastructure. When purchasing a Taycan, owners receive three years free access to the speed-charging infrastructure of IONITY in Europe or Electrify America in the United States, Porsche's joint venture partners.
+Unlike other electric vehicles, the Taycan has charging ports on both the driver's and passenger's sides. They cannot both be used simultaneously. For the European, American and other markets which use CCS, AC sources can be connected to either side and DC sources can only be connected to the passenger's side. For the Japanese and Chinese markets which use completely different AC and DC connectors, the driver's side contains the AC charging port and the passenger's side contains the DC charging port. To reduce charge times at both hot and cold temperatures, the battery can be thermally preconditioned using a charging planner. Owners set a departure time in the planner, and the car automatically warms or cools the battery for optimal charging times. A charging dock and mobile charger, supplied with the car for home charging, utilize a 9.6-kW connector that charges the car in 11 hours. An energy manager, which can also be installed in a home's circuit panel, can manage the house's power flow; provide cost-optimising charging using solar power; and provide blackout protection by reducing the charge to the car if household appliances such as fridges or dryers turn on and exceed the panel's power threshold.
+
+
+=== Aerodynamics ===
+The Taycan Turbo has a drag coefficient of Cd=0.22, which the manufacturer claims is the lowest of any current Porsche model. The Turbo S model has a slightly higher drag coefficient of Cd=0.25. The frontal area is 2.33 m2, with a resulting drag area of 0.513 m2 and 0.583 m2 for the Turbo and Turbo S, respectively.
+
+
+=== Performance ===
+Car and Driver completed 15 consecutive quarter-mile runs in both the Taycan Turbo S and the 2020 Tesla Model S "Raven" Performance to evaluate Porsche's claim that their car's performance holds up even as the battery discharges. Porsche's results during the test did not deteriorate significantly, while the Tesla's were observed to be considerably worse.
+
+
+== Models ==
+The Taycan is currently offered as a 4-door saloon model and two 4-door estate models, the Taycan Cross Turismo and the Taycan Sport Turismo. Other planned variants include a two-door coupe and convertible models, which will enter production based on market demand. Models introduced at launch include the high-performance AWD Turbo and Turbo S. The Taycan 4S, a mid-range AWD model with two battery sizes, was added in October 2019. The base RWD model was first announced in July 2020 for China, and then for Europe and US in January 2021. The GTS variants were announced in November 2021.
+
+Notes: These power, torque and acceleration values were achieved with Overboost Power with Launch Control mode. Otherwise, the maximum power is 240 kW (326 PS; 322 hp) for the base model, 280 kW (381 PS; 375 hp) for the base with 93 kWh Performance Battery Plus, 320 kW (435 PS; 429 hp) for the 4S, 360 kW (489 PS; 483 hp) for the 4S 93 kWh Performance Battery Plus, and 460 kW (625 PS; 617 hp) for the Turbo and Turbo S models.
+The Sport Turismo differs from the Cross Turismo as follows; "with the rear spoiler painted to match the body color and no cladding on the wheel arches. The Sport Turismo has the same silhouette as the Cross Turismo wagon and storage space. But it has the lower ride height of the Taycan sedan, giving it a racier, performance-minded look — and feel.", and as such is treated as a new body type.
+
+
+== Reviews and reception ==
+More than 20,000 Taycans were delivered in 2020, its debut sale year, representing 7.4% of the total Porsche volume.
+A modified Taycan Turbo S is the current Formula E Safety car.
+In December 2022, Bloomberg named the Taycan as a great other option to the Model X from Tesla for those frustrated by Elon Musk.
+The Taycan's global sales in 2022 totaled 34,801 and in 2023 totaled 40,629 units for a combined total of more than 136,000 Taycans sold globally.
+Through the first half of 2024, Taycan deliveries were down to 8,838 units.
+
+
+== Awards ==
+In January 2021, the Taycan 4S was named Performance Car of the Year by What Car? magazine. What Car? awarded the Taycan five stars out of five in its review of the car.
+In April 2021, the Taycan Cross Turismo was awarded Best Estate in the 2021 Top Gear Electric Awards.
+
+
+== Concept models ==
+
+
+=== Porsche Mission E ===
+The concept car which previewed the Taycan was the Porsche Mission E, unveiled at the 2015 Frankfurt Motor Show. It is powered by two PSM permanently excited synchronous electric motors, one on each axle, with all four wheels individually controlled by the Porsche Torque Vectoring system. The motors were projected to be rated at more than 440 kW (598 PS; 590 hp); and the car had projected performance figures of 0–100 km/h (62 mph) in under 3.5 seconds, 0–200 km/h (124 mph) in under 12 seconds, and a top speed of over 250 km/h (155 mph). Porsche's range goal for the Mission E was over 500 km (311 mi).
+The car's system voltage is 800 V DC. The batteries can be charged by an inductive plate or with a conventional charging system. Porsche claimed that with the Porsche Turbo Charging system, the battery could be charged at up to 350 kW (476 PS; 469 hp), to 80% in just 15 minutes.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Porsche Mission E Cross Turismo ===
+The Porsche Mission E Cross Turismo previewed the Taycan Cross Turismo, and was presented at the 2018 Geneva Motor Show. The design language of the Mission E Cross Turismo more closely resembles the Taycan than the Mission E. It combined the fully electric Mission E J1-platform with a 5-door estate body similar to the Panamera Sport Turismo, raised suspension, and off-road tyres and cladding to form a crossover utility vehicle. Porsche Chief designer Michael Mauer said the concept "shows possibilities of the future lineup." On October 18, 2018, the supervisory board of Porsche AG approved series production of the production-ready Porsche Taycan Cross Turismo.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== References ==
+
+
+== External links ==
+
+Official website

@@ -1,0 +1,181 @@
+The BMW i3 is an electric car that was manufactured by German marque BMW from 2013 to 2022. The i3 was BMW's first mass-produced zero emissions vehicle and was launched as part of BMW's electric vehicle BMW i sub-brand. It is a B-segment, high-roof hatchback with an electric powertrain. It uses rear-wheel drive via a single-speed transmission and an underfloor lithium-ion battery pack with an optional range-extending petrol engine.
+Styled by Richard Kim, the i3 is a five-door with a passenger module of high strength, ultra-lightweight carbon fibre reinforced polymer adhered to an aluminium chassis, battery, drive system and powertrain. The body features two clamshell rear-hinged rear doors.
+The i3 debuted as a concept at the 2011 International Motor Show Germany, and production began in September 2013 in Leipzig.
+It ranked third amongst electric cars sold worldwide from 2014 to 2016. Its global sales totaled 250,000 units by the end of 2022. Germany was its biggest market with over 47,500 units delivered through December 2021, followed by the U.S. with over 45,000.
+The i3 won two World Car of the Year Awards, selected as 2014 World Green Car of the Year and as 2014 World Car Design of the Year. The i3 received an iF Product Design Gold Award, and won UK Car of the Year 2014 and Best Supermini of 2014 in the first UK Car of the Year Awards.
+
+
+== History ==
+
+In February 2011, BMW debuted its sub-brand, BMW i, to market vehicles produced under Project i. BMW i vehicles were to be sold separately from BMW or Mini. The first two production models are the BMW i3, formerly called the Mega City Vehicle (MCV), and the plug-in hybrid BMW i8, the production version of the Vision Efficient Dynamics concept unveiled at the 2009 International Motor Show Germany and has an all-electric range of 50 kilometres (31 mi). Production of both cars was scheduled to start in Leipzig in 2013.
+BMW incorporated lessons learned during the field testing of the Mini E (2009–2010) and the BMW ActiveE (2012) into the design of the i3, in particular the battery and powertrain, achievable range, and the use of one pedal driving in urban traffic areas.
+
+
+=== Concept vehicles ===
+
+The i3 concept car was unveiled at the 2011 International Motor Show. This prototype had a 22 kWh (79 MJ) lithium-ion battery pack that delivered between 130 and 160 km (80 and 100 mi). The battery fully charged in about four hours with the 240-volt charging unit. The i3 was expected to go from 0 to 100 km/h (62 mph) in less than 8 seconds.
+BMW also showcased a BMW i3 prototype during the 2012 Summer Olympics in London.
+BMW unveiled the i3 Concept Coupé study at the 2012 Los Angeles Auto Show. The concept car demonstrated the potential for extending the model range. The three-door hatchback coupe, like the five-door i3 electric hatchback sedan, was propelled by an electric motor developed by the BMW Group, with a maximum output of 125 kW (168 hp) and peak torque of 250 N⋅m (180 lbf⋅ft). Power delivery to the rear wheels was via a single-speed transmission. The li-ion battery pack was placed under the floor and could deliver an all-electric range of 160 km (99 mi). A 34 horsepower REX petroleum engine could be added to extend the car's range to 320 km (200 mi).
+
+
+=== Launch ===
+
+The production i3 was announced in July 2013 as a 2014 model year vehicle. Automotive press were invited to test drive the production cars in Amsterdam.
+The original battery capacity was 60 Ah or 22 kWh (gross), with a net capacity of 19 kWh. The unladen DIN weight was 1,195 kg (2,635 lb), 1,315 kg (2,899 lb) with the range extender.
+In the United States, the i3 was available with one of three trim packages dictating the wheels and interior: Mega World (base, cloth seats and 19" Style 427 wheels), Giga World (+US$1,700, adds leather interior accents and 19" Giga-specific Style 429 wheels), and Tera World (+US$2,700, adds full leather interior and 19" Tera-specific Style 428 wheels). 20" Style 430 double-spoke wheels were optional for Giga and Tera trims. In addition, two option packages were available: Parking Assistant (+US$1,000, added backup camera and parking assistance) and Technology – Driving Assistant (+US$2,500, added wide-screen navigation, deceleration assistance, and adaptive cruise control). Wheel and tyre sizes varied by trim. The equivalent trim lines in the UK were named Standard/Atelier, Loft (+£1,000; both corresponding to Mega); Lodge (+£1,500, corresponding to Giga); and Suite (+£2,000, corresponding to Tera). Wheel options were not locked to trims in the UK, with 19" Style 427 wheels standard and the rest optionally available in combination with any interior trim.
+
+
+=== 2017 model ===
+In May 2016, BMW announced the 2017 model year (MY) BMW i3 would have a 94 Ah / 33 kWh (27.2 kW net usable) battery, allowing increased range, in both the all-electric and range-extended versions. BMW and Samsung SDI optimized the cell-internal packages with more electrolyte and adapted the active material, resulting in higher energy density of the lithium ion cells that increased battery capacity by more than 50% without changes in exterior dimensions of the car. The electronics package was upgraded with new software mapping for the battery cooling system and the electric motor. With the larger battery, the unladen EU weight was 1,320 kg (2,910 lb), rising to 1,440 kg (3,170 lb) with the range extender.
+The range of the REx model was increased in the American market thanks to a fuel tank that is effectively 25% larger than the previous model. Although the fuel tank is physically unchanged, BMW previously had locked out part of the tank using software specific to the American market to meet requirements for vehicles with range extenders, as the car had more gasoline-powered range than all-electric range, which would affect its status as a zero-emissions vehicle (ZEV) in California.
+The 2017 model year i3 was released in the United States and Europe in July 2016. According to BMW, as of 10 August 2016, orders for the larger battery i3 exceeded 7,000 units, with a total of 2,358 i3s delivered worldwide in July 2016, up 33.7% year-on-year. Sales also surged in the U.S. with 1,479 units sold in July 2016, up 58.2% from July 2015, and 143.3% from June 2016. However, BMW only managed to sell 6,276 i3s in 2017 in the U.S., a drop of 17 percent from 2016. Purchase incentive of up to $10,000 was available for 2017 or 2018 models.
+Both variants with the improved battery were scheduled to be available in the UK, Germany, and France starting in July 2016. Owners of previous i3 models in selected markets have the option to retrofit their vehicles with the improved battery. BMW plans to use the used 22 kWh batteries in the manufacturing of stationary power storage units. The battery retrofit option is not available in the U.S.
+
+
+=== 2018 model and i3s ===
+
+The exterior was refreshed for the 2018 model year, with a new front bumper, horizontal turnsignal light openings, and standard LED headlights. The rear bumper was also revised and a horizontal silver bar was added to the rear hatch. On the side, a silver accent was added to the roofline on the i3 model, not on the i3s model; the visual stance of the i3s was widened with the addition of fender flares.
+In 2017, BMW announced the addition of the i3s ("sport") to its lineup beginning with the 2018 model year. Visually, many of the chrome accents added to the regular 2018 model were blacked-out on the i3s. The i3s features increased power and torque output from 170 to 181 hp (127 to 135 kW) and 184 to 199 lb⋅ft (249 to 270 N⋅m), a lowered sport suspension, wider model-exclusive Style 431 double-spoke wheels and tires (F: 175/55R20 and R: 195/50R20, each 20 mm (0.79 in) wider than the standard tires fitted with Style 430 wheels), faster acceleration, and a SPORT drive mode. The i3s features a wider track width at 1,592 / 1,578 mm (62.7 / 62.1 in), compared to 1,571 / 1,576 mm (61.9 / 62.0 in) (F/R) for the regular i3; overall width also increases from 1,775 to 1,791 mm (69.9 to 70.5 in). The i3s, like the i3, is offered with optional Range Extender. Also like the regular i3, the i3s is offered with a choice of interiors, from standard Mega / Atelier and Loft to Giga / Lodge and Tera / Suite. The unladen EU weight of the i3s was approximately 20 kg (44 lb) heavier than the regular i3, at 1,340 kg (2,950 lb) without and 1,460 kg (3,220 lb) with the range extender.
+
+
+=== 2019 model ===
+In September 2018, BMW announced a larger 42.2 kWh (120 Ah) battery for the i3. Minor alterations to the i3 included new color options and adaptive headlights. With the introduction of the bigger battery, BMW decided to discontinue the REX version of the i3 in Europe. Unladen weight did not grow much with the larger battery; the unladen EU weight was 1,345 kg (2,965 lb) for the regular i3 and 1,365 kg (3,009 lb) for the i3s.
+
+
+=== Discontinuation ===
+
+As of December 2019, BMW planned to continue i3 production until 2024, and there were no specific plans for an i3 successor. However, BMW announced in June 2021 it would discontinue i3 sales in the US after the 2021 model year, replaced by the BMW iX and BMW i4 for that market in 2022. The end of production for US models occurred in July 2021; Australian models were discontinued at the end of 2021.
+BMW confirmed in early 2022 that production of all i3 models is scheduled to end in July 2022, and will be succeeded in some markets by BMW iX1, which will enter mass production at the Regensburg factory in 2024 before shifting to Hungary. The Leipzig plant will be retooled to produce the updated Mini Countryman.
+
+
+=== 3G cellular technology discontinuation ===
+In April 2021, BMW announced the 3G cellular technology services will be discontinued starting February 2022 for vehicles in the US market. This is due to the decline and decommissioning of the 3G service.
+
+
+== Design and technology ==
+
+
+=== Body and chassis ===
+The i3 was the first mass production car with most of its internal structure and body made of carbon-fiber reinforced plastic (CFRP). BMW took advantage of the absence of a forward internal combustion engine, giving the i3 a "clean sheet design" with a sports-like appearance.
+
+The i3 includes four doors and seating for four occupants with rear suicide doors. The passenger compartment is known as the Life Module, made of CFRP, sitting atop the aluminum Drive Module, which incorporates the powertrain, frame, battery, and suspension. Carbon fiber is sourced from SGL Automotive Carbon Fibers, a joint venture of BMW and SGL Carbon in Moses Lake, Washington; the fibers are woven into fabric at another BMW/SGL joint venture plant in Wackersdorf, then the fabric is laid up into structures using a resin transfer molding process at BMW Landshut. Finally, the finished pieces are assembled into the Life Module by 173 robots at BMW Leipzig, using adhesives only.
+The door panels of the i3 are made of hemp, which mixed with plastic helps lower the weight of each panel by about 10%. Hemp fibers, left exposed, also form a design element of the car's interior and contribute to sustainability. Further environmental consciousness is reflected in the optional seat leather, which is tanned with olive-leaf extract and the dashboard trim, which is made from environmentally refined wood from certified cultivation in Europe. By November 2010, BMW had demonstrated the passenger compartment's light weight, and the automaker's chief executive said they had already decided on the basic design of the car and that road-testing prototypes began soon after.
+The tires for the i3 were designed by Bridgestone to minimize rolling resistance and aerodynamic drag, featuring a narrower width, larger diameter, and higher inflation pressure (155/70R19 at 320 kPa (46 psi)) than typical passenger car tires (175/65R15 at 210 kPa (30 psi) for equivalent load capacity). Bridgestone call this combination of changes "ologic", supplying similar tires to World Solar Challenge teams.
+At launch Bridgestone were the sole tyre supplier for the BMW i3, but since launch Nankang, Continental and recently Michelin have begun to supply 155 and 175 widths.
+
+
+=== Weight ===
+
+
+=== Powertrain ===
+
+The i3 uses a newly developed powertrain consisting of a 130-kilowatt (170 hp) electric motor running on lithium-ion batteries and driving the rear axle. The top speed is limited to 150 km/h (93 mph). A range-extender option is available, adding a small rear-mounted gasoline engine to recharge the traction battery when it is low.
+
+
+=== Battery, range, and economy ===
+
+BMW aimed to achieve a range of 160 km (100 mi), the same range that was expected for the BMW ActiveE, but in order to reduce weight, battery capacity was cut to 16 kWh instead of the ActiveE's 30 kWh. As initially sold (2014–16 model years), the vehicle's official range is 130 to 160 km (80 to 100 mi) for the 60 Ah battery option under the New European Driving Cycle (NEDC), and up to 200 km (120 mi) in the most efficient driving mode. Under the United States Environmental Protection Agency (EPA) cycle, the official range of the 60 Ah model is 130 km (81 mi) with combined fuel economy of 124 miles per gallon gasoline equivalent —MPGe— (1.90 L/100 km; 149 mpg imp).
+The 2014–16 model years with the range extender option have an official NEDC total range of 257 to 299 km (160 to 186 mi).
+BMW estimates the energy consumption is 0.21 kWh/mile in everyday driving. Under its five-cycle testing, the United States Environmental Protection Agency (EPA) rated the 2014 through 2016 model year all-electric BMW i3 (60 Ah) energy consumption at 27 kWh/100 mi (16.9 kWh/100 km) with a combined fuel economy at 124 miles per gallon gasoline equivalent – MPGe – (1.90 L/100 km; 149 mpg imp) with an all-electric range of 130 km (81 mi). The range-extended model has lower ratings than the all-electric i3 due to the extra weight of the twin-cylinder gasoline engine used in the i3 REx.
+Range and economy varies depending on the presence of the range extending internal combustion engine and larger batteries fitted to later models:
+
+With these ratings the all-electric BMW i3 was the most fuel efficient EPA-certified vehicle sold in the United States of all years regardless of fuel type until November 2016, when it was surpassed by the Hyundai Ioniq Electric, rated at 136 MPGe (25 kWh/100 mi).  Similarly, the i3 REx in 2014 was the most efficient EPA-certified current year vehicle with a gasoline engine, replacing the Chevrolet Volt.
+
+In July 2016, BMW released the 2017 model year (MY) BMW i3 with an improved 94 Ah (33 kWh) battery pack, 50% more capacity than the previous model, resulting in an increase of its range to 183 km (114 mi) under the EPA cycle, an increase of 33 mi (53 km) over the 60 Ah variant. The 94 Ah battery gave a range of 300 km (190 mi) under the NEDC test. The i3 94 Ah combined fuel economy rating is 118 MPG-e, down from 124 MPG-e for the model with the 60 Ah battery.
+The 2017 BMW i3 REx with the larger 94 Ah battery has an EPA-rated range of 97 mi (156 km), and combined fuel economy rating is 111 MPG-e. The range using the gasoline-powered engine increased to 83 mi (134 km) from 78 mi (126 km) in the previous versions.
+The battery rating was again increased in 2018 to 120 Ah, which results in a total capacity of 42.2kWh. The 2019 BMW i3 REx with 120 Ah battery has an EPA-rated battery-only range of 126 mi (203 km), a combined gas and electric range of 200 miles (320 km) miles, and a combined fuel economy rating of 100 MPG-e.
+
+
+==== Charging ====
+
+BMW designed the i3 eDrive powertrain based on the premise that the battery would need to be recharged only once every two to three days. The charging frequency was derived from field trial results taken from the BMW ActiveE and MINI E vehicles in Asia, Europe and the U.S., whereby the typical commuting use between the pilot users' homes and workplaces was calculated.
+The i3 allows the owner to charge the battery from a conventional wall socket. In addition, the BMW i3 has multiple charging options. With the original 60Ah battery, AC fast charging can take less than 3 hours when charging from 0 to 80% while using the BMW i Wallbox Pure or any 3rd party charging equipment (EVSE) supporting 32A. Most European models supported three-phase AC charging up to 11 kW. The i3 also has a 50 kW DC fast charging option suitable for public DC charging stations, which can take less than 30 minutes to charge the 60Ah version from 0% to 80%. Later 94Ah and 120Ah models take proportionally longer.
+In the US, the i3 can also be charged from any public charging station with an SAE J1772 connector. In 2016, BMW and the PG&E utility in California expanded an experiment of delaying charge-up during peak demand and compensating i3 owners for the delay.
+BMW claims that the i3 is the first fully online all-electric vehicle, but the Tesla Model S has had full 3G Internet connectivity since 2012.
+
+
+==== Additional mobility ====
+BMW i introduced the BMW i Flexible Mobility Program for trips where the range of a BMW i3 would not be enough to allow customers to cover longer distances, such as providing a conventional BMW vehicle for a specified number of days per year. The program started in October 2014 in the US and individual dealers can choose whether to participate in this program. BMW is also offering a roadside assistance program in areas of high sales. The assistance vehicle will provide a charge so the i3 can travel to the next charging station. In addition, the i3 digital display panel shows the location of nearby recharging stations to alleviate range anxiety.
+
+
+=== Range extender option (i3 REx) ===
+
+An optional petrol/gasoline range extender engine is marketed as REx and is powered by the same Kymco-built 647 cc inline two-cylinder engine used in the BMW C650 GT maxi-scooter. The system is intended as an emergency backup to extend range to the next recharging location, and not for long-distance travel. The 647 cc engine as fitted in the i3 REx is derated compared to the engine of the same displacement in the C650 GT; the REx engine develops 34 hp; 34 PS (25 kW) and 41 lb⋅ft; 5.6 kg⋅m (55 N⋅m) at 4,300 RPM, achieving compliance with Euro-6 emissions standards compared to the 59 hp; 60 PS (44 kW) (at 7,500 RPM) and 49 lb⋅ft; 6.7 kg⋅m (66 N⋅m) (at 6,000 RPM) for the engine in the C650 GT, which complies with the less restrictive Euro-4 emissions.
+The REx engine operates when battery capacity drops to a pre-specified level, generating electricity to extend the range. Vehicles equipped with the REx have an additional fuel filler door on the right front fender, allowing drivers to fill the 9 L (2.0 imp gal; 2.4 US gal) tank. However, model year 2014–16 i3 REx vehicles in the U.S. are limited to a fuel capacity of 7.2 L (1.6 imp gal; 1.9 US gal) electronically, in accordance with the car's classification as a range-extended battery-electric vehicle; with the full capacity, the gasoline-extended range would exceed the all-electric range, which would classify the car as a plug-in hybrid instead. The European model REx has an extended range of approximately 320 km (200 mi). In the United States with the limited tank, under EPA five-cycle testing, the i3 REx has a total range of 240 km (150 mi), of which approximately half [116 km (72 mi)] is all-electric. The restrictions applied to the US configuration of the i3 that do not apply to other territories prompted a class-action lawsuit in 2016.
+
+
+==== United States / California regulation ====
+The range-extender option of the BMW i3 was designed to meet the California Air Resources Board (CARB) regulation for an auxiliary power unit (APU). According to rules adopted in March 2012 by CARB, the 2014 BMW i3 with a REx unit fitted is the first car ever to qualify as a range-extended battery-electric vehicle or "BEVx". CARB describes this type of electric vehicle as "a relatively high-electric range battery-electric vehicle (BEV) to which an APU is added." The unit, which maintains battery charge at about 30% after the pack has been depleted in normal use, is strictly limited in the additional range it can provide. As a BEVx, the car is required to deliver a minimum 75 mi (121 km) electric range.
+CARB classified the i3 with the REx option as a "Transitional Zero Emission Vehicle" (TZEV), the same classification as other plug-in hybrids such as the Chevrolet Volt and the Toyota Prius Plug-in Hybrid. This classification made the i3 REx eligible for California's green sticker that identifies the vehicles allowed to be operated by a single occupant in California's high-occupancy vehicle lanes (HOV), or carpool or diamond lanes, but not for the white sticker reserved for pure electric cars, such as the BMW i3 without REx. In addition, CARB certification of the i3 REx as BEVx allows the i3 with range extender to be eligible for a US$2,500 Clean Vehicle Rebate, the same amount eligible pure electric cars are entitled to. Other plug-in hybrids are eligible for only a US$1,500 purchase rebate.
+Since the 2017 model years and newer i3 REx have the same battery as the all-electric models, newer i3 REx cars have an increased all-electric range due to the higher capacity 94 A·hr battery (2017–18) and 120 A·hr battery (2019–22) that now exceeds its gas-powered range. For example, the 2017 model year i3 REx equipped with the range extender has a total range of 290 km (180 mi), of which 156 km (97 mi) is all-electric. With their larger batteries fitted to the 2017 model year and later, the all-electric range exceeds the total gasoline range for the 2017 model year and beyond, so the software restrictions were removed for these model years and BMW was able to unlock the full tank for later models of the i3 REx without affecting its ZEV status.
+
+
+=== Interior and controls ===
+
+In June 2012 an updated version of the BMW i3 concept car was unveiled at the opening of the first BMW i store, located on Park Lane in London, UK. The updated i3 concept consists of a new interior colour and materials concept. The seat covers combine responsibly sourced wool and leather naturally tanned with an olive oil leaf-based agent. The almost symmetrical curving dash is inlaid with treated eucalyptus wood that, according to BMW, is sourced from sustainably managed European forests.
+Information is provided to the driver through a 16.5 cm (6.5 in) freestanding instrument cluster and a 22.3 cm (8.8 in) central information display. The bench-derived front seats replace the center tunnel that bisected the cabin and a floor-mounted transmission, brake levers or center console are also absent.
+The BMW i3 has two pedals like all cars with automatic transmission. The accelerator pedal acts as both accelerator and engine brake. When the driver releases the pedal, the vehicle's kinetic energy is regenerated by the vehicle drivetrain to recharge the battery. This has the effect of slowing the car down. During the field testing of the Mini E, which has an accelerator that recharges the battery in this way, and consists of brakes that only apply to the rear wheels, BMW has learned that drivers tend to rely on the engine brake: around 75% of all deceleration maneuvers are initiated without the brake pedal in urban traffic areas. BMW also expected the i3 to use the same type of battery and powertrain that is being tested in the BMW ActiveE trials.
+
+
+==== Operating modes ====
+
+The BMW i3 allows the driver to select the car energy consumption through three different driving modes: Comfort, Eco Pro or Eco Pro+ mode. In the standard Comfort mode the i3 delivers a range between 130 and 160 km (80 and 100 mi) in everyday driving conditions, while the i3 REx delivers between 260 and 290 km (160 and 180 mi). The Eco Pro mode increases the driving range by around 12% through a different accelerator pedal mapping which uses less power. In Eco Pro+ mode, all settings are geared to achieving the maximum possible range, increasing the driving range by about 24% compared with Comfort mode. In this mode, the maximum speed of the BMW i3 is limited to 90 km/h (56 mph) and electrical devices such as the heating and air conditioning are switched to energy-saving mode. The i3s, introduced for the 2018 model year, adds a SPORT drive mode.
+
+
+=== Safety ===
+The European New Car Assessment Programme (Euro NCAP) awarded the i3 a four-star car safety rating, resulting in the following ratings for each criterion:
+
+The BMW i3's overall ratings are lower than the other six best-selling plug-in electric vehicles, the Volvo V60 Plug-in Hybrid, Renault Zoe, Nissan Leaf, Mitsubishi Outlander P-HEV, Chevrolet Volt and Opel Ampera, all of which were rated five stars.
+
+
+== Production ==
+BMW has implemented efficient manufacturing processes and is using recycled materials to lessen the i3's environmental impact.
+BMW is manufacturing carbon strands that form the basis of the i3's carbon-fiber reinforced plastic bodywork at a new US$100 million plant built in Moses Lake, Washington, using raw material shipped from Japan. This location was selected to take advantage of the abundant hydroelectric power available in this U.S. region because carbon-fiber production requires considerable energy and would otherwise emit much carbon dioxide. The carbon fiber is then shipped to Landshut, Germany, where the carbon-fiber reinforced plastic parts are fabricated, and the vehicle assembly line is located in Leipzig.
+
+In November 2010, the Leipzig plant was retooled add electric vehicle assembly lines, with an investment totaling €400 million euros (US$561 million) through 2013. The plant is located at BMW's complex that already produces variants of the 1 Series model. Four 2.5 MW Nordex wind turbines at Leipzig came online in 2013, supplying approximately 1⁄5 of the factory's electricity needs. A concept version of the BMW i3 Coupe reflecting the current status of ongoing development was presented at the March 2013 Geneva Motor Show. The production vehicle was officially unveiled simultaneously in New York, London and Beijing on 29 July 2013. Series production for retail customers began on 18 September 2013, and the first vehicle off the production line was handed over to German marathon runner Jan Fitschen. The car was used as the lead vehicle at the 2013 Berlin Marathon on 29 September.
+As of February 2014, BMW was producing an average of 70 cars a day, about half the planned production, with lower production due to a high defect rate in the carbon parts. A subsequent investment of about €100 million in the production of carbon parts was made to solve the supply problems. According to BMW, there were 11,000 orders at the time, including 1,200 from U.S. customers. As a result of the high demand and the slow production rate, delivery waiting time extended to September 2014.
+As of October 2017, production of the BMW i3 was just over 120 cars per day. By late October 2017, the 100,000th BMW i3 had been built in the Leipzig plant. 700 storage batteries taken from used i3 vehicles were linked as the "Storage Farm" at Leipzig in 2017, allowing the automaker to offset the intermittent nature of wind power. The 200,000th i3 rolled off the production line in the Leipzig plant on 15 October 2020. Production ended in July 2022 with a total of 250,000 units. The last ten units manufactured were the special BMW i3s HomeRun Edition.
+
+
+== Marketing and sales ==
+
+Production began on 18 September 2013. As of March 2018, the BMW i3 was available in 74 countries.
+The first i3 deliveries to retail customers in Europe took place at an official market launch ceremony held in Munich on 15 November 2013. The first delivery to a retail customer in the U.S. took place in May 2014. At its market launch, pricing in the United States started at US$42,275 before any government incentives, and the range extender option an additional US$3,850. Prices in Germany started from €34,950 (US$46,400). Pricing in the UK started at £30,680 (US$47,195) before the applicable government grant.
+After its release BMW, like many other plug-in electric carmakers at the time, faced weak reception of its electric car lineup. BMW expected to sell at least 30,000 units a year from 2014. Global sales passed the 10,000 unit mark in September 2014, 25,000 units in May 2015, and the 50,000 unit milestone was achieved in July 2016. Cumulative global sales attained the 150,000 unit mark by mid 2019.
+
+The i3 was the world's third best all-time selling all-electric car in 2016, after the Nissan Leaf and the Tesla Model S, with more than 65,000 units sold worldwide since its inception. The i3 also ranked third by sales among all-electric cars sold worldwide for three years in a row, from 2014 to 2016.
+By the end of 2021, i3 sales since inception totaled over 220,000 units delivered worldwide. As of December 2021, Germany listed as the i3 top selling country market with 47,536 units sold, followed by the United States with 45,098 units. Norway is also a top market with 28,605 new units registered through January 2022. The Norwegian market has the world's highest i3 penetration per capita. In November 2016, the BMW i3 topped new passenger car monthly sales in Norway. U.S. sales ended in July 2021. Global sales totaled 250,000 units by the end of 2022.
+
+
+=== Global sales ===
+The following table presents annual retail sales or registrations of the i3 top selling national markets through December 2021 for both variants of the BMW i3, except when noted.
+
+
+== Reception ==
+The BMW i3 won the Geneva Auto Show Car Design of the Year award for 2013 in the production category; an iF Product Design Gold Award for "the incorporation of sustainability in all facets of the interieur and exterieur design"; the 2014 World Green Car of the Year; the 2014 World Car Design of the Year, UK Car of the Year 2014, UK Best Super-mini of 2014 and Green Car Journal's 2015 Green Car of the Year Award.
+In Australia, the BMW i3 received the 2014 Wheels Car of the Year by Wheels Magazine. In South Africa the i3 received "Design of the Year" and "Game Changer of the Year" in 2016 by the automotive website cars.co.za.
+At the 2017 New York International Auto Show the 94 Ah i3 was named the inaugural winner of the "World Urban Car of the Year".
+
+
+== See also ==
+Automatic parking
+Electric car use by country
+Government incentives for plug-in electric vehicles
+List of electric cars currently available
+List of modern production plug-in electric vehicles
+List of production battery electric vehicles
+Personal Urban Mobility and Accessibility
+
+
+== References ==
+
+
+== External links ==
+
+BMW i3 official website
+BMW i3 UK website
+BMW i3 road test
+BMW i3 (Mega City)- first spy shots Archived 10 March 2011 at the Wayback Machine
+BMW i3 REx vs. Chevrolet Volt: two different approaches to plug-in hybrids, Torque News, June 2014
+Video
+BMW i3. From the first idea to the final car, BMW, July 2014 (YouTube)

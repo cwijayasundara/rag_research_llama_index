@@ -1,0 +1,112 @@
+The Tesla Model Y is a battery electric mid-size crossover SUV produced by Tesla, Inc. since 2020. The vehicle was presented in March 2019 as the company's fifth production model since its inception after the Roadster, Model S, Model X and Model 3.
+After its 2019 introduction, the Model Y started production at the Fremont Factory in California, US in January 2020. Production at Giga Shanghai, China was added in December 2020, and at Giga Texas, US since late 2021. Deliveries from Giga Berlin, Germany started in March 2022.
+The Model Y is based on the Model 3 sedan, with around 76 percent of parts being shared between the two. While most Model Y are configured with two-row seating, in the US the Model Y offers optional third-row seats for a seven-passenger seating capacity.
+In 2023, Tesla delivered 1.2 million Model Ys, making it the world's best-selling vehicle that year, surpassing the Toyota Corolla and becoming the first electric vehicle to claim that title. With at least 2.16 million units delivered since its start of production up to December 2023, the Model Y is also the most popular electric vehicle of all time.
+
+
+== History ==
+
+
+=== Pre-launch ===
+In 2013, Tesla Motors filed to trademark the name "Model Y". Later in 2015, CEO Elon Musk teased a Model 3-based Model Y with falcon-wing doors. In 2017, a Model Y silhouette was teased to Tesla shareholders at the annual general meeting in June. Musk also announced that the Model Y would be produced in a new factory, as the Fremont plant would not have room to accommodate another production line.
+In June 2018, a new silhouette was revealed by Musk. He stated that the Model Y would be formally announced in March 2019. The Model Y announcement had been planned for 2018; however, production problems with the Model 3 resulted in it being pushed to 2019. In October 2018, Elon Musk revealed that he had approved the finalized design for the first production version of the Model Y, however production would not start until 2020. On March 3, 2019, Elon Musk published multiple tweets, announcing the unveiling event and confirming some specifications. Musk confirmed the vehicle would use standard doors, as opposed to the falcon-wing doors used on the Model X.
+
+
+=== Production ===
+
+Tesla originally announced plans at the unveil to assemble the Model Y at Giga Nevada (in Sparks, Nevada), along with the battery and drivetrain for the vehicles, unlike the Model 3, where drivetrains and batteries are assembled at Giga Nevada, with final assembly completed at the Tesla Factory in Fremont, California. Two months later, in May 2019, Tesla said that they instead planned to shuffle production lines at the Tesla Fremont Factory to make space for Model Y production.
+On January 29, 2020, Tesla reported in its Q4 2019 earnings report that Model Y production had already started in the Fremont factory, that one can now place an order for their premium versions with all-wheel drive, and that delivery of Model Y would begin in Q1 2020.
+In November 2019, Tesla announced that the Tesla Model Y would be the first vehicle to be assembled at the first European Gigafactory, Giga Berlin. Tesla started deliveries of the Berlin-made Model Y since March 2022, mainly for European markets.
+United States deliveries started in March 2020 for the Long Range AWD version and the Performance version. Later in 2020, Tesla began shipping cars to the Canadian and Mexican markets.
+Initial production of the made-in-China Model Y began in mid-December 2020 with 250,000 Model Y expected to be produced in 2021 in China alone. In November 2020, Tesla signed an agreement with LG Chem to supply battery cells for Model Y production in China.
+On October 7, 2020, Musk tweeted that Giga Berlin Model Y would get single-piece rear and front frame cast, structural battery pack, and new 4680 cells.
+On July 25, 2021, CEO Elon Musk revealed that Tesla was planning to release an updated design for the Model Y by the end of 2021. In addition, Tesla planned to implement their new structural battery pack to improve range. These new cars would be manufactured by the two new Tesla production facilities in Austin, Texas and Berlin, Germany. If Tesla was not able to roll out the new 4680 battery cells by the end of 2021, they would use the standard battery cells until the 4680's are ready.
+
+
+=== Changes ===
+Vehicles manufactured from May 2021 lack lumbar support on passenger seats.
+Vehicles manufactured from April 2021 no longer include radar for adaptive cruise control.
+In early 2023, Tesla removed the ultrasonic parking sensors. Automated parking features relying only on the camera were shown to be unreliable.
+
+
+== Technical details ==
+
+
+=== Heat pump ===
+The Model Y is Tesla's first vehicle to use a heat pump instead of electric resistance for interior cabin heating. Electric cars using electric resistance heating can lose 40% or more of their range in ambient temperatures below 20 °F (−7 °C). The heat pump can be up to 300% more efficient than electric resistance heating.
+Some electric vehicles from other manufacturers, including the Nissan Leaf, Renault Zoe, BMW i3, Jaguar I-Pace, Audi e-tron, and Kia Niro, had already implemented heat pumps. Tesla's heat pump has been praised for using far fewer parts.
+Tesla's heat pump system includes unique features including the "Super Manifold" and the "Octovalve". Inside the Super Manifold two systems meet: one for water-glycol coolant (used for managing the temperature of the battery, computers and powertrain) and the other for R1234YF refrigerant (used for cabin temperature control). The two systems share a liquid cooled condenser and a chiller. The Octovalve has eight ports that move the coolant around the different systems of the vehicle. The system allows the vehicle to remove waste heat from the vehicle's systems and use it to warm the cabin.
+Musk has said that the new heat pump system is one of the two most significant changes in the Model Y over the Model 3 (which included it too in 2021), the other being the new single-piece castings.
+
+
+=== Radar ===
+Vehicles produced since May 2021 lack radar for adaptive cruise control. In February 2022, the National Highway Traffic Safety Administration opened an investigation over phantom braking in these new vehicles.
+Software update 2022.20.9 transitioned radar equipped Model Ys (and Model 3s) to Tesla Vision. Steering assist is limited to 85 mph (137 km/h), down from 90 mph (140 km/h) on vehicles with radar and minimum following distance has been increased to two car lengths from one.
+
+
+=== Single-piece castings ===
+
+In August 2020, it was reported that the Tesla Factory in Fremont would soon activate the world's largest unibody casting machine for Model Y production, switching to casting the rear body in a single piece. Elon Musk told an interviewer that the Berlin-made Model Y is "not just a copy of the Model Y. It's actually a radical redesign of the core technology of building a car." With this new design and production method, rear and front portions of the frame will be a single-cast design. Injecting molten aluminum into a cast and having robots pull out the molded metal allowed Tesla to combine several manufacturing steps. This manufacturing process is expected to result in significant cost savings, reducing a complex structural frame of dozens of parts, requiring many hours of welding to be reduced to just 1 part. Other savings include lower tool investments, reduced production time, lower number of robots, and a smaller production area.
+In August 2020, Tesla started assembling the world's biggest casting machine for this purpose, which the company called the Giga Press. The machine was supplied by Italian company Idra.
+Production of the Model Y with single-piece rear casting was reported to have started in late December 2020. The new process unified 70 different metal parts into two large parts.
+
+
+== Markets and configurations ==
+
+
+=== United States ===
+During its introduction, there were four planned powertrain configurations for the Model Y in the U.S., which are Standard Range Rear-Wheel Drive (RWD), Long Range RWD, Long Range with Dual Motor All-Wheel Drive (AWD), and Performance (with Dual Motor All-Wheel Drive). However, the Long Range RWD model was not produced until 2024. As of May 2024, the Long Range RWD, Long Range AWD and the Performance models are currently being offered for sale.
+
+The Standard Range RWD configuration was initially canceled in July 2020 after being listed as to be announced in "spring 2021", due to the range (230 mi or 370 km) being unacceptably low to CEO Elon Musk. On January 7, 2021, Tesla once again released the Standard Range RWD configuration, alongside the seven-seat option for the Model Y. The Standard Range RWD features 244 miles (393 km) of EPA-estimated range. Tesla stopped taking orders for the variant in February 2021, making it the shortest-lived configuration offered for the Model Y.
+After reports emerged in February 2021, on December 6, 2021, Tesla formally notified customers who had pre-ordered the Long Range RWD that their chosen configuration is no longer available in the U.S. According to reports, this configuration was never delivered in the U.S.
+On April 9, 2022, Tesla began building the Standard Range AWD configuration. Manufactured at Gigafactory Texas, it was equipped with the new 4680 battery cells and structural battery pack technology rated at 279 miles (449 km) of EPA range. At first, this configuration was only available for employees, invited reservation holders, and customers residing in the Texas area. Around April 7, 2023, Tesla made the configuration for sale to the general public. On September 14, Tesla stopped taking orders for the Standard Range AWD.
+On January 12, 2023, Tesla announced a significant price reduction for the Model Y and Model 3. This reduction made the Model Y Long Range eligible for the federal tax credit of $7,500 under the Inflation Reduction Act, which is applicable only for cars that are priced below $55,000.
+Tesla reintroduced the Standard Range RWD model to the US market in October 2023. In May 2024, the Standard Range RWD model was no longer offered for sale and was replaced by a Long Range RWD model. It was revealed that the Standard Range RWD model vehicles built in 2023 and early 2024 were the same as the new Long Range RWD model, but with the former having a software lock in place to reduce range to 260 miles. Elon Musk announced on social media that owners of the Standard Range RWD model from 2023 and 2024 may be able to pay a fee to unlock additional range, pending regulatory approval.
+
+
+=== Canada ===
+In April 2023, Tesla began producing made-in-China Model Y to be sold in Canada.
+
+
+=== Australia ===
+Orders for the Model Y in Australia opened on June 10, 2022, with initial configurations offered were RWD and Performance AWD and imported from Gigafactory Shanghai. Deliveries commenced in August 2022. The Long Range AWD configuration was released on April 4, 2023.
+
+
+=== China ===
+On June 5, 2020, Tesla launched the Model Y Online design studio for the Chinese market, allowing customers in China to place orders for the upcoming made-in-China Model Y. First delivery of the model was made on January 18, 2021.
+On January 1, 2021, Tesla started selling the Model Y in China, and it sold out its planned production (an unknown quantity) for Q1 2021 within 6 days.
+In June 2024, the Jiangsu province government listed the Model Y as being eligible for purchase for government uses. It's the first time that a Tesla car entered China's official vehicle procurement catalog.
+
+
+== Specifications ==
+
+
+== Safety ==
+
+On January 3rd, 2023, Dharmesh A. Patel drove his Model Y off a cliff in Southern California with his children and wife inside. While they had serious injuries, all of them survived.
+
+
+== Reception ==
+
+The Model Y has been generally very well received. Critics laud the car's appearance, quick acceleration, spacious interior and range. However, they criticized the vehicle's clumsy handling and stiff ride. According to Top Gear, the Model Y is a "great car to live with". The Model Y was also touted as the leader in its class, but reviewers note that competition is rising with numerous alternatives hitting the market from other manufacturers. 
+In March 2024, Consumer Reports named the 2024 Model Y to its "Best Cars of the Year: 10 Top Picks of 2024" list, the only electric car to make the list.
+
+
+== Awards ==
+
+In 2023, the Tesla Model Y won the Autovista Group Residual Value Award in the category of Compact and Large Battery-Electric Vehicle (BEV) SUV. The Model Y also won the Best Company Car award at the 2024 Carbuyer Best Car Awards.
+
+
+== Sales ==
+
+
+== See also ==
+List of production battery electric vehicles
+
+
+== References ==
+
+
+== External links ==
+
+Official website
